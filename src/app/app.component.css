@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.top-button {
+  margin: 3px;
+  margin-bottom: 20px;
+}
+
+.form {
+  background-color: #e0e0e0;
+  border-radius: 25px;
+  padding: 50px;
+  margin-top: 10%;
+  margin-left: 70%;
+}
+
+.button {
+  margin-left: 110px;
+}
